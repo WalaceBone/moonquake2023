@@ -1,9 +1,0 @@
-{
-	"homepage": ".", 
-	"scripts": {	
-		"deploy": "gh-pages -d build"
-	},
-	"devDependencies": {
-    		"gh-pages": "^6.0.0"
-  }
-}
